@@ -1,1 +1,1 @@
-worker: test.cpp
+worker: ./test
