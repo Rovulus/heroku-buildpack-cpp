@@ -1,2 +1,2 @@
-hello:
-	echo "hello"
+all:
+	g++ -s test.cpp
