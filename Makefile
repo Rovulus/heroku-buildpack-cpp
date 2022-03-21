@@ -1,1 +1,2 @@
-@echo sure
+all:
+	@echo sure
